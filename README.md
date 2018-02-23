@@ -3,5 +3,7 @@
 
 ## Usage:
 make
+
 // in test.sh, change the host name to your linux hostname
+
 bash test.sh
